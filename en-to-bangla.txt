@@ -11,6 +11,7 @@ elusive = ja dhora jai na --- অধরা
 alongside = পাশাপাশি
 chasing = তাড়া 
 grabbed = ধরা
+Exponent => সূচক
 
 
 
