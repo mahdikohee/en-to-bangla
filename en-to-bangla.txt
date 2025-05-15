@@ -12,6 +12,56 @@ alongside = পাশাপাশি
 chasing = তাড়া 
 grabbed = ধরা
 Exponent => সূচক
+faint  => অজ্ঞান , দুর্বল
+suicidal => আত্মঘাতী
+STANDALONE => one in one , alone , no part , স্বতন্ত্র
+fate => ভাগ্য
+exterior => বাহ্যিক
+He is  Brooding: সে নিজের মধ্যে ডুবে থাকে — হয়তো ট্রমা, দুঃখ, অথবা অন্য কিছু কারণে।
+he is  Emotionally unavailable: সে কাউকে সহজে ভরসা দেয় না, ভালোবাসাও না — সে emotional intimacy এ ভয় পায়, অথবা চায় না।
+intimacy => অন্তরঙ্গতা
+staccato => ছাড়াছাড়া , কাটা-কাটা , খেপে-খেপে নির্গত
+feral => বন্য
+resembling => অনুরূপ
+stumble => হোঁচট খাওয়া
+Tug down =>  আত্মসচেতনতা
+ Unrelenting  => নিরলস
+ Hell Born Agents  => নরক থেকে পাঠানো প্রতিনিধি/এজেন্টরা
+Seed => বীজ
+Sprouted => অঙ্কুরিত হওয়া
+Warner => সতর্ককারক
+Birthright => জন্মগত অধিকার
+Redeemer => মুক্তিদাতা
+Hereby =>  এতদ্বারা
+Reclaim => পুনরুদ্ধার করুন
+Redeem => খালাস , মুক্ত করা
+Endure => সহ্য করা
+Persecution => নিপীড়ন
+Slander => অপবাদ
+Humiliation => অপমান
+Perpetrated => অপরাধী
+Sermons => উপদেশ
+Reign => রাজত্ব
+Uproar => হৈচৈ
+Pestilence => মহামারী
+Famines => দুর্ভিক্ষ
+Preaching => প্রচার
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
