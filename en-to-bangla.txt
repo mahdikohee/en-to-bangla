@@ -52,7 +52,7 @@ initial => প্রাথমিক
 infer => অনুমান
 territory => অঞ্চল
 equivalent =>> সমতুল্য
-
+transpose => স্থানান্তর
 
 
 
